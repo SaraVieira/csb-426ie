@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1cb2a6ff00f7aa3012e42e677141c413",
+    "revision": "7cdc27832ffc9b16e8f631d49a6c980e",
     "url": "https://SaraVieira.github.io/csb-426ie/index.html"
   },
   {
-    "revision": "7241ba62b10327e57f15",
+    "revision": "1bd22de3e25a4b953c3b",
     "url": "https://SaraVieira.github.io/csb-426ie/static/css/main.16122306.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://SaraVieira.github.io/csb-426ie/static/js/2.f0bc85ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7241ba62b10327e57f15",
-    "url": "https://SaraVieira.github.io/csb-426ie/static/js/main.3143baeb.chunk.js"
+    "revision": "1bd22de3e25a4b953c3b",
+    "url": "https://SaraVieira.github.io/csb-426ie/static/js/main.4afb3a39.chunk.js"
   },
   {
     "revision": "f910650f529de210b81e",
